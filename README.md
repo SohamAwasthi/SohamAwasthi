@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SohamAwasthi
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python 
+- 👀 I’m interested in C Programming
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on C 
 -  📫 How to reach me: Email me at: samawas230806@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Human 
